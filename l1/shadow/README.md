@@ -369,13 +369,3 @@
 ### Shadow 0036
 
 ![Shadow 0036](0036_b.png)
-
-## 0037
-
-### Shadow Base 0037
-
-![Shadow Base 0037](0037_a.png)
-
-### Shadow 0037
-
-![Shadow 0037](0037_b.png)
