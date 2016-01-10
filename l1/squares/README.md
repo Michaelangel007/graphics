@@ -711,6 +711,7 @@ Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0089](0089.png)
 
 Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0001).
+Undecorated square: [Wall SW 2](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0079).
 
 ## 0090
 
@@ -727,6 +728,7 @@ Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0091](0091.png)
 
 Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0002).
+Undecorated square: [Wall SE 2](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0080).
 
 ## 0092
 
@@ -751,6 +753,7 @@ Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0094](0094.png)
 
 Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0001).
+Undecorated square: [Wall SW 2](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0079).
 
 ## 0095
 
@@ -759,6 +762,7 @@ Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0095](0095.png)
 
 Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0002).
+Undecorated square: [Wall SE 2](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0080).
 
 ## 0096
 
@@ -775,6 +779,7 @@ Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0097](0097.png)
 
 Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0002).
+Undecorated square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0002).
 
 ## 0098
 
@@ -783,6 +788,7 @@ Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0098](0098.png)
 
 Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0002).
+Undecorated square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0002).
 
 ## 0099
 
@@ -791,6 +797,7 @@ Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0099](0099.png)
 
 Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0002).
+Undecorated square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0002).
 
 ## 0100
 
@@ -799,6 +806,7 @@ Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0100](0100.png)
 
 Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0001).
+Undecorated square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0001).
 
 ## 0101
 
@@ -807,6 +815,7 @@ Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0101](0101.png)
 
 Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0001).
+Undecorated square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0001).
 
 ## 0102
 
@@ -815,6 +824,7 @@ Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0102](0102.png)
 
 Base square: [Arch SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0011).
+Undecorated square: [Arch SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0011).
 
 ## 0103
 
@@ -823,6 +833,7 @@ Base square: [Arch SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0103](0103.png)
 
 Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0001).
+Undecorated square: [Door SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0025).
 
 ## 0104
 
@@ -831,6 +842,7 @@ Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0104](0104.png)
 
 Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0013).
+Undecorated square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0013).
 
 ## 0105
 
@@ -839,6 +851,7 @@ Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/square
 ![Square 0105](0105.png)
 
 Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0013).
+Undecorated square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0013).
 
 ## 0106
 
@@ -847,6 +860,7 @@ Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/square
 ![Square 0106](0106.png)
 
 Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0013).
+Undecorated square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0013).
 
 ## 0107
 
@@ -855,6 +869,7 @@ Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/square
 ![Square 0107](0107.png)
 
 Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0001).
+Undecorated square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0001).
 
 ## 0108
 
@@ -863,6 +878,7 @@ Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0108](0108.png)
 
 Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0002).
+Undecorated square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0002).
 
 ## 0109
 
@@ -871,6 +887,7 @@ Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0109](0109.png)
 
 Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0001).
+Undecorated square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0001).
 
 ## 0110
 
@@ -879,6 +896,7 @@ Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0110](0110.png)
 
 Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0002).
+Undecorated square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0002).
 
 ## 0111
 
@@ -887,6 +905,7 @@ Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0111](0111.png)
 
 Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0001).
+Undecorated square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0001).
 
 ## 0112
 
@@ -895,6 +914,7 @@ Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0112](0112.png)
 
 Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0002).
+Undecorated square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0002).
 
 ## 0113
 
@@ -903,6 +923,7 @@ Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0113](0113.png)
 
 Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0001).
+Undecorated square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0001).
 
 ## 0114
 
@@ -911,6 +932,7 @@ Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0114](0114.png)
 
 Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0002).
+Undecorated square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0002).
 
 ## 0115
 
@@ -919,6 +941,7 @@ Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0115](0115.png)
 
 Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0002).
+Undecorated square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0002).
 
 ## 0116
 
@@ -927,6 +950,7 @@ Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0116](0116.png)
 
 Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0002).
+Undecorated square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0002).
 
 ## 0117
 
@@ -935,6 +959,7 @@ Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0117](0117.png)
 
 Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0002).
+Undecorated square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0002).
 
 ## 0118
 
@@ -943,6 +968,7 @@ Base square: [Wall SE](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0118](0118.png)
 
 Base square: [Arch SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0012).
+Undecorated square: [Arch SE](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0012).
 
 ## 0119
 
@@ -967,6 +993,7 @@ Base square: None.
 ![Square 0121](0121.png)
 
 Base square: [Arch SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0011).
+Undecorated square: [Arch SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0011).
 
 ## 0122
 
@@ -975,6 +1002,7 @@ Base square: [Arch SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0122](0122.png)
 
 Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0001).
+Undecorated square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0001).
 
 ## 0123
 
@@ -983,6 +1011,7 @@ Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0123](0123.png)
 
 Base square: [Arch SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0011).
+Undecorated square: [Arch SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0011).
 
 ## 0124
 
@@ -991,6 +1020,7 @@ Base square: [Arch SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0124](0124.png)
 
 Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0001).
+Undecorated square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0001).
 
 ## 0125
 
@@ -999,6 +1029,7 @@ Base square: [Wall SW](https://github.com/sanctuary/graphics/blob/master/l1/squa
 ![Square 0125](0125.png)
 
 Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0013).
+Undecorated square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0013).
 
 ## 0126
 
@@ -1063,6 +1094,7 @@ Base square: None.
 ![Square 0133](0133.png)
 
 Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0013).
+Undecorated square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0013).
 
 ## 0134
 
@@ -1071,6 +1103,7 @@ Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/square
 ![Square 0134](0134.png)
 
 Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0013).
+Undecorated square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0013).
 
 ## 0135
 
@@ -1079,6 +1112,7 @@ Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/square
 ![Square 0135](0135.png)
 
 Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0013).
+Undecorated square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0013).
 
 ## 0136
 
@@ -1087,6 +1121,7 @@ Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/square
 ![Square 0136](0136.png)
 
 Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0013).
+Undecorated square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0013).
 
 ## 0137
 
@@ -1095,6 +1130,7 @@ Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/square
 ![Square 0137](0137.png)
 
 Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0013).
+Undecorated square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0013).
 
 ## 0138
 
@@ -1103,6 +1139,7 @@ Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/square
 ![Square 0138](0138.png)
 
 Base square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/base.md#0013).
+Undecorated square: [Floor](https://github.com/sanctuary/graphics/blob/master/l1/squares/README.md#0013).
 
 ## 0139
 
